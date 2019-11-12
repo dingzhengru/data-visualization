@@ -42,9 +42,11 @@ style.css
 
 ## Chart.js
 
-**有六種現成的圖表類型給你使用**  
-** type: line, bar, radar, doughnut(pie), polarArea, bubble
-
+**有現成的圖表類型給你使用**  
+*  Types: line, bar, radar, doughnut, pie, polarArea, bubble
+*  Responsive
+*  Animations
+*  Mixed chart types(可以一次放多筆資料與型態)
 ## Top Vue.js Chart Components
 來源: https://madewithvuejs.com/blog/top-vue-js-chart-components
 
@@ -74,11 +76,11 @@ let chart = new Chart(ctx, {
 
 ## Apexcharts
 *  支援Vue, React
-*  type: line, pie, radar, range bar, candlestick, heat map , radialBar(circular gauge), multiple axis & scales
+*  Types: line, pie, radar, range bar, candlestick, heat map , radialBar(circular gauge), multiple axis & scales
 *  Responsive
 *  Interactive
 *  Dynamic
-*  Smooth Animations
+*  Animations
 ```
 let apexOptions = {
   chart: {
