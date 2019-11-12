@@ -1,6 +1,7 @@
 # 資料視覺化(Data Visualization)
-*  <a href="#">d3.js</a>
+*  <a href="#d3js">d3.js</a>
    > <a href="#get-started">Get started</a>
+*  <a href="#top-vuejs-chart-components">Top Vue.js Chart Components</a>
 ## d3.js
 
 ### Get started
@@ -36,3 +37,7 @@ style.css
     border-bottom: solid 1px white;
 }
 ```
+
+
+## Top Vue.js Chart Components
+來源: https://madewithvuejs.com/blog/top-vue-js-chart-components
