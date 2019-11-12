@@ -12,7 +12,7 @@
 *  style: 設定style (下面設置 { width: xxpx; })
 *  text: 設定顯示內容(標籤內文字)
 *  exit: 找到「沒有資料可配對的物件」
-*  remove: 刪除exit找到的物件
+*  remove: 刪除exit找到的物件  
 js
 ```
 d3.select('#d3-div')
