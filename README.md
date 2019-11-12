@@ -14,7 +14,8 @@
 *  exit: 找到「沒有資料可配對的物件」
 *  remove: 刪除exit找到的物件
 
-basic
+### basic
+js
 ```
 d3.select('#d3-div')
   .selectAll('div')
@@ -25,4 +26,15 @@ d3.select('#d3-div')
     .text(function(d) { return `$ ${d}`; })
     .exit()
     .remove();
+```
+index.html
+```
+<div id="d3-div"></div>
+```
+style.css
+```
+#d3-div div {
+    background-color: red;
+    border-bottom: solid 1px white;
+}
 ```
