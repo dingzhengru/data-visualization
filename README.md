@@ -46,8 +46,6 @@ style.css
 *  Responsive
 *  Animations
 *  Mixed chart types(可以一次放多筆資料與型態)
-## Top Vue.js Chart Components
-來源: https://madewithvuejs.com/blog/top-vue-js-chart-components
 
 ```
 let ctx = document.getElementById('chart-canvas1')
@@ -99,3 +97,11 @@ let apexChart = new ApexCharts(apexChartDiv, apexOptions);
 
 apexChart.render();
 ```
+
+
+
+
+
+
+## Top Vue.js Chart Components
+來源: https://madewithvuejs.com/blog/top-vue-js-chart-components
