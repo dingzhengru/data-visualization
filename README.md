@@ -13,3 +13,16 @@
 *  text: 設定顯示內容(標籤內文字)
 *  exit: 找到「沒有資料可配對的物件」
 *  remove: 刪除exit找到的物件
+
+basic
+```
+d3.select('#d3-div')
+  .selectAll('div')
+  .data(d3Data)
+    .enter()
+    .append('div')
+    .style("width", function(d) { return d + 30 + "px"; })
+    .text(function(d) { return `$ ${d}`; })
+    .exit()
+    .remove();
+```
