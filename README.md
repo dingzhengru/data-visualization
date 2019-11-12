@@ -1,12 +1,11 @@
 # 資料視覺化(Data Visualization)
 *  <a href="#d3js">d3.js</a>
-   > <a href="#get-started">Get started</a>
 *  <a href="chartjs">Chart.js</a>
 *  <a href="apexcharts">Apexcharts</a>
 *  <a href="#top-vuejs-chart-components">Top Vue.js Chart Components</a>
 ## d3.js
 **另外還有d4(為了搭配React, Vue.js)**  
-### Get started
+
 *  select: 選取一個物件 = document.querySelector()
 *  selectAll: 選取在select下要視覺化的所有物件
 *  data: 要視覺化的資料
