@@ -1,6 +1,6 @@
 # 資料視覺化(Data Visualization)
 *  <a href="#">d3.js</a>
-*    <a href="#get-started">Get started</a>
+**      <a href="#get-started">Get started</a>
 ## d3.js
 
 ### Get started
